@@ -38,4 +38,3 @@ function createPromise(position, delay) {
   }
   )
 };
-т
